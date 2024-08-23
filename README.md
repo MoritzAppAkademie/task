@@ -1,3 +1,3 @@
 # task
 
-A new Flutter project.
+Checklist App with SharedPrefences
